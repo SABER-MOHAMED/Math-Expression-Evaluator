@@ -1,11 +1,11 @@
 # Math Expression Evaluator
 
 ## Description
-Command line application designed evaluate mathematical expressions provided as strings input.
+**Node.js** command line application designed evaluate mathematical expressions provided as strings input.
 These expressions can include simple math operations, over integer and double values, in addition to standard mathematical functions (pow, sqrt, cos, sin, tan, acos, asin, atan).
 
 ## Dependencies
-- Node.js
+- None
 
 ## Installation
 To install and set up the project on your host machine, follow these steps:
