@@ -9,8 +9,8 @@ These expressions can include simple math operations, over integer and double va
 
 ## Installation
 To install and set up the project on your host machine, follow these steps:
-1. Clone the repository to your local machine: `git clone <repository-url>`
-2. Navigate to the project directory: `cd <project-directory>`
+1. Clone the repository to your local machine: `git clone https://github.com/SABER-MOHAMED/Math-Expression-Evaluator`
+2. Navigate to the project directory: `cd Math-Expression-Evaluator`
 
 ## Usage
 To run the project, use the following command:
